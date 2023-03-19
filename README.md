@@ -1,6 +1,10 @@
+<h6>個人研究聲明</h6>
+以下為本人進行研究的思路和過程，供大家參考，歡迎討論&指教。完整程式碼已經放在code.ipynb，若有任何問題，歡迎在下方留言或是寄信給我。
+<h6>成果速覽</h6>
+<figure class="wp-block-image size-full"><img src="https://www.finlab.tw/wp-content/uploads/2023/03/36.png" alt="" class="wp-image-5279"/></figure>
+<figure class="wp-block-image size-large"><img src="https://www.finlab.tw/wp-content/uploads/2023/03/34-1024x353.png" alt="" class="wp-image-5277"/></figure>
 <!-- wp:heading -->
 <h2>為什麼要做資產配置?</h2>
-以下為本人進行研究的思路和過程，供大家參考，歡迎討論&指教。完整程式碼已經放在code.ipynb，若有任何問題，歡迎在下方留言或是寄信給我。
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
